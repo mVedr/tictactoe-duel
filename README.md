@@ -18,3 +18,8 @@ const JokeBox = () => {
     const url = 'https://api.api-ninjas.com/v1/dadjokes?limit=1';
     const apiKey = ''; // add your api key here
 ```
+<p>5)Now finally run this command to run the app, if not working, you can refer to <a href="https://reactnative.dev/docs/environment-setup">React Native Setup Docs</a> .</p>
+
+```
+  npx react-native run-android 
+```
