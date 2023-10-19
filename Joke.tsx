@@ -4,7 +4,7 @@ import {useState} from 'react';
 const JokeBox = () => {
   const [joke, setJoke] = useState('');
   const func = async () => {
-    const url = 'https://api.api-ninjas.com/v1/dadjokes?limit=1';
+    const url = '';
     const apiKey = 'nBKINOk9lrDdrlf+fJCHBw==71tdgdskI8DB3Tia';
 
     try {
