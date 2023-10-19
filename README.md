@@ -1,5 +1,5 @@
 <h1>TicTacToe Duel</h1>
-<h3>App is available at <a href="https://play.google.com/store/apps/details?id=com.xo_game1">Play Store</a></h3>
+<h3>App is available at <a href="https://play.google.com/store/apps/details?id=com.xo_game1" target="_blank">Play Store</a></h3>
 
 <h2>Steps Of Installation</h2>
 <p>1)Fork this repository.</p>
