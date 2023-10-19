@@ -1,5 +1,7 @@
 <h1>TicTacToe Duel</h1>
 <h3>App is available at <a href="https://play.google.com/store/apps/details?id=com.xo_game1" target="_blank">Play Store</a></h3>
+<p>It is a 2 player TicTacToe Game with customizable characters and score maintenance of various players, it also tries to cheer up the losing player by telling them jokes 
+that are fetched from an API.</p>
 
 <h2>Steps Of Installation</h2>
 <p>1)Download/Fork this repository.</p>
